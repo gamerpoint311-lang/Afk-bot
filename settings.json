@@ -7,13 +7,13 @@
   },
   "server": {
     "ip": "gamerpoint.play.hosting",
-    "port": 21426,
+    "port": 48234,
     "version": "1.21.1"
   },
   "position": {
     "enabled": true,
     "x": 0,
-    "y": 100,
+    "y": 70,
     "z": 0
   },
   "utils": {
